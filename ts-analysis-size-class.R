@@ -3,4 +3,4 @@ get_data<-function(){
   return(data)
 }
 
-get_data
+get_data()
